@@ -9,7 +9,7 @@ The objective of this project is to develop a Tableau dashboard to visualize and
 - Enhance Decision-Making: Support strategic decisions to improve environmental compliance and reduce negative impact.
 
 ##3. Dataset Used:
-- <a href="https://github.com/vaibhaavtyagi/Environment_Analysis_Dashboard/blob/main/Data%20Set%20environmental%20impact.xlsx">Environment_Daset</a>
+- <a href="https://github.com/vaibhaavtyagi/Environment_Analysis_Dashboard/blob/main/Data%20Set%20environmental%20impact.xlsx">Environment_Dataset</a>
 
 ##4. Requirements
 
