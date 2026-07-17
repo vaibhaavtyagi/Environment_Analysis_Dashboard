@@ -18,10 +18,31 @@ The objective of this project is to develop a Tableau dashboard to visualize and
 
    
 2. Filters
-   <Image_link>
+   <img width="875" height="802" alt="Filters" src="https://github.com/user-attachments/assets/72ed2ffe-a65b-4e4c-81eb-d6cd72a99b89" />
+
    
 3. Chart_views
-   <Image_link>
+   <img width="874" height="912" alt="Chart_views" src="https://github.com/user-attachments/assets/7eabbc61-714b-4011-a690-e8ca24f6b907" />
+
+
+3. Scope
+- Data visualization and interactive filtering for:
+ - Carbon Emissions (kg)
+ - Water Consumption (liters)
+ - Energy Usage (kWh)
+ - Waste Generated (kg)
+ - Recycling Rate (%)
+ - Air Quality Index (AQI)
+ - Compliance Levels
+- Comparative analysis across regions, industries, and product types.
+- Exportable reports and charts.
+
+4. View_Dashbaord:
+   <a href="https://github.com/vaibhaavtyagi/Environment_Analysis_Dashboard/blob/main/Environment_Analysis_Dashboard.jpeg">Environmental_Dashboard</a>
+
+5. Dashboard:
+   <img width="2702" height="1325" alt="Environment_Analysis_Dashboard" src="https://github.com/user-attachments/assets/aab426d9-ce47-4a09-ba4a-b538c046a600" />
+
 
 
 
