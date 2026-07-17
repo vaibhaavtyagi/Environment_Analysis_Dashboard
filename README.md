@@ -13,15 +13,18 @@ The objective of this project is to develop a Tableau dashboard to visualize and
 
 ##4. Requirements
 
-1. Key Numeric Indicators
+1. Key Numeric Indicators:
+   
    <img width="869" height="804" alt="KNIs" src="https://github.com/user-attachments/assets/bc9b0e9b-454d-4d54-adcb-1d203ea905f9" />
 
    
-2. Filters
+3. Filters:
+   
    <img width="875" height="802" alt="Filters" src="https://github.com/user-attachments/assets/72ed2ffe-a65b-4e4c-81eb-d6cd72a99b89" />
 
    
-3. Chart_views
+4. Chart_views:
+   
    <img width="874" height="912" alt="Chart_views" src="https://github.com/user-attachments/assets/7eabbc61-714b-4011-a690-e8ca24f6b907" />
 
 
