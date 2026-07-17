@@ -14,7 +14,8 @@ The objective of this project is to develop a Tableau dashboard to visualize and
 ##4. Requirements
 
 1. Key Numeric Indicators
-   https://github.com/vaibhaavtyagi/Environment_Analysis_Dashboard/blob/main/KNIs.jpeg
+   <img width="869" height="804" alt="KNIs" src="https://github.com/user-attachments/assets/bc9b0e9b-454d-4d54-adcb-1d203ea905f9" />
+
    
 2. Filters
    <Image_link>
